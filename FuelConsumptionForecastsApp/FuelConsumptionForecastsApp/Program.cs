@@ -40,7 +40,7 @@ namespace CallRequestResponseService
                             new StringTable()
                             {
                                 ColumnNames = new string[] {"MPG", "Cyl", "Displacement", "Horsepower", "Weight", "Acceleration", "Year", "CountryCode", "Model"},
-                                Values = new string[,] {  { "0", "0", "0", "0", "0", "0", "0", "0", "value" },  { "0", "0", "0", "0", "0", "0", "0", "0", "value" },  }
+                                Values = new string[,] {  { "29", "6", "85", "52", "2035", "222", "76", "1", "chevrolet chevette" },  { "31", "4", "119", "82", "2720", "194", "82", "1", "vw pickup" },  }
                             }
                         },
                     },
